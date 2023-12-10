@@ -1,5 +1,7 @@
 # cleveroauth
-Proof-of-concept for utilizing Clever's OAuth2 API to authenticate users and retrieve data from Clever's API.
+![image](https://github.com/De-y/CleverOauth/assets/61808223/2f45755a-47fd-4029-b7f7-7457dc9d8a7d)
+
+Simple proof-of-concept application for utilizing Clever's OAuth2 API to authenticate users and retrieve data from Clever's API.
 
 ## Setup
 1. Clone this repository
