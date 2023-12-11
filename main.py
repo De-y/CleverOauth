@@ -64,7 +64,6 @@ def user():
     """
     try:
         token = request.cookies.get('sid')
-        print(token)
         if token == None:
             return redirect('/')
         else:
