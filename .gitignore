@@ -1,2 +1,7 @@
 venv/
 .env
+node_modules/
+prisma/
+package.json
+pnpm-lock.yaml
+js/
